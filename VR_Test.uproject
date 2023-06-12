@@ -157,6 +157,14 @@
 		{
 			"Name": "LiveLinkXR",
 			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkLens",
+			"Enabled": true
+		},
+		{
+			"Name": "CameraCalibration",
+			"Enabled": true
 		}
 	]
 }
