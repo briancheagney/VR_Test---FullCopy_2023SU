@@ -2,7 +2,7 @@
 	"source": "UE",
 	"applications": [
 		{
-			"app_key": "application.generated.ue.vr_test-20979098.unrealeditor.exe",
+			"app_key": "application.generated.ue.vr_test-23901901.unrealeditor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
 			"action_manifest_path": "D:/DDocuments/Github/VR_Test---FullCopy_2023SU 5.1/Config/SteamVRBindings/steamvr_manifest.json",
@@ -10,7 +10,7 @@
 			{
 				"en_us":
 				{
-					"name": "VR_Test-20979098 [UE Editor]"
+					"name": "VR_Test-23901901 [UE Editor]"
 				}
 			}
 		}
