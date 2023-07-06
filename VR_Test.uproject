@@ -46,7 +46,11 @@
 		},
 		{
 			"Name": "VirtualCamera",
-			"Enabled": true
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux"
+			]
 		},
 		{
 			"Name": "LiveLink",
